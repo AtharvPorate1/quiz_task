@@ -1,7 +1,7 @@
 'use client'
 
 import { useRouter } from 'next/navigation'
-import Image from 'next/image'
+
 import { Button } from "@/components/ui/button"
 
 export default function HomePage() {
