@@ -14,13 +14,6 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-white to-purple-100 flex flex-col items-center justify-between p-4">
       <div className="w-full max-w-md flex justify-start items-center pt-4">
-        <Image
-          src="/placeholder.svg?height=24&width=24"
-          width={24}
-          height={24}
-          alt="Upraised logo"
-          className="mr-2"
-        />
         <span className="text-orange-500 font-semibold text-lg">quiz app</span>
       </div>
       

@@ -1,68 +1,65 @@
 [
     {
       "id": 1,
-      "question": "How do you judge what should be added in the next version of the app?",
+      "question": "Which methods are most effective for determining new features for an app update?",
       "options": [
         "Data Analysis",
-        "User's feedback",
-        "Copy from similar product",
-        "Make a questionnaire",
-        "Personal feeling"
+        "User feedback",
+        "Competitor analysis",
+        "Market surveys",
+        "Intuition"
       ],
-      "correctAnswers": [1, 3],
-      "image": "/question-image.jpg"
+      "correctAnswers": [0, 1, 3],
+      "image": "/question-image1.jpg"
     },
     {
       "id": 2,
-      "question": "What is the most important factor when prioritizing app features?",
+      "question": "What are crucial factors to consider when prioritizing app features?",
       "options": [
         "User demand",
-        "Competitor features",
-        "Ease of implementation",
-        "Developer preference",
-        "Trends in the industry"
+        "Development cost",
+        "Market trends",
+        "Team capabilities",
+        "Potential ROI"
       ],
-      "correctAnswers": [0, 4],
-      "image": "/question-image2.jpg"
+      "correctAnswers": [0, 2, 4]
     },
     {
       "id": 3,
-      "question": "Which method is commonly used to gather feedback for app improvements?",
+      "question": "Which techniques are commonly used for gathering user feedback?",
       "options": [
-        "Surveys and questionnaires",
-        "Random decisions",
-        "Copying competitor features",
-        "Social media trends",
-        "Team brainstorming"
+        "In-app surveys",
+        "User interviews",
+        "App store reviews",
+        "Usage analytics",
+        "Social media monitoring"
       ],
-      "correctAnswers": [0, 4],
+      "correctAnswers": [0, 1, 2, 3, 4],
       "image": "/question-image3.jpg"
     },
     {
       "id": 4,
-      "question": "Which of these helps in improving app UI/UX design?",
+      "question": "What are effective strategies for improving app UI/UX design?",
       "options": [
         "User testing",
-        "Market research",
-        "Ignoring feedback",
-        "Personal taste",
+        "Heatmap analysis",
+        "Competitive benchmarking",
+        "Accessibility audits",
         "A/B testing"
       ],
-      "correctAnswers": [0, 1, 4],
-      "image": "/question-image4.jpg"
+      "correctAnswers": [0, 1, 3, 4]
     },
     {
       "id": 5,
-      "question": "What is the benefit of conducting A/B testing in app development?",
+      "question": "What are the primary benefits of conducting A/B testing in app development?",
       "options": [
-        "Improves decision-making with data",
-        "Reduces project complexity",
-        "Minimizes time spent on design",
-        "Validates user preferences",
-        "Adds complexity to testing"
+        "Data-driven decision making",
+        "Reduced development time",
+        "Improved user satisfaction",
+        "Increased conversion rates",
+        "Risk mitigation"
       ],
-      "correctAnswers": [0, 3],
+      "correctAnswers": [0, 2, 3, 4],
       "image": "/question-image5.jpg"
     }
   ]
-  
